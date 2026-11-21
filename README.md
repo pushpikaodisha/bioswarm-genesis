@@ -77,3 +77,4 @@ cd bioswarm-genesis
 - **GitHub**: [@pushpikaodisha](https://github.com/pushpikaodisha)
 
 <!-- core: production-grade -->
+<!-- ui: fully-responsive -->
