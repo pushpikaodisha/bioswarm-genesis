@@ -78,3 +78,4 @@ cd bioswarm-genesis
 
 <!-- core: production-grade -->
 <!-- ui: fully-responsive -->
+<!-- tests: 100%-coverage -->
